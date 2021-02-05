@@ -31289,6 +31289,22 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-sheet-1 {
     min-height: 165px;
   }
+
+  .u-header .u-image-1 {
+    width: auto;
+  }
+
+  .u-header .u-social-icons-1 {
+    width: 98px;
+    margin-top: 20px;
+  }
+
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: -88px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
 }
 .u-footer {
   background-image: none;
